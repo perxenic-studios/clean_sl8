@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 16],
+	"texture": "clean_sl8:textures/entity/bell/bell_body.png",
+	"models": [
+		{
+			"part": "body",
+			"id": "body",
+			"invertAxis": "xy",
+			"translate": [0, -12, 0],
+			"rotate": [-180, 0, 0],
+			"boxes": [
+				{"coordinates": [-3, 10, -3, 6, 6, 6], "textureOffset": [0, 0]},
+				{"coordinates": [-5, 16, -5, 10, 4, 10], "textureOffset": [24, 0]}
+			],
+			"animations": [
+				{
+					"this.rx": 0
+				}
+			]
+		}
+	]
+}

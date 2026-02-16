@@ -1,0 +1,25 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/acacia_leaves"
+      },
+      {
+        "model": "minecraft:block/acacia_leaves",
+        "x": 90,
+        "y": 90,
+        "z": 90
+      },
+      {
+        "model": "minecraft:block/acacia_leaves",
+        "z": 180
+      },
+      {
+        "model": "minecraft:block/acacia_leaves",
+        "x": 270,
+        "y": 270,
+        "z": 270
+      }
+    ]
+  }
+}

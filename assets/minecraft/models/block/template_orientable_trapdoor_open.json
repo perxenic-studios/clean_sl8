@@ -1,0 +1,32 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "#texture"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 14],
+			"to": [16, 16, 16],
+			"faces": {
+				"east": {"uv": [16, 0, 14, 16], "texture": "#texture", "cullface": "east"},
+				"south": {"uv": [0, 16, 16, 0], "texture": "#texture", "cullface": "south"},
+				"west": {"uv": [14, 0, 16, 16], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 14, 16, 16], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 16, 16, 14], "texture": "#texture", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 12],
+			"to": [16, 16, 14],
+			"rotation": {"x": 0, "y": 0, "z": 0, "origin": [0, 0, -2]},
+			"faces": {
+				"north": {"uv": [0, 16, 16, 0], "texture": "#texture"},
+				"east": {"uv": [2, 0, 0, 16], "texture": "#texture", "cullface": "east"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#texture", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#texture", "cullface": "up"},
+				"down": {"uv": [0, 2, 16, 0], "texture": "#texture", "cullface": "down"}
+			}
+		}
+	]
+}

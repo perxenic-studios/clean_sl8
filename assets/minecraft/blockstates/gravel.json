@@ -12,8 +12,7 @@
       },
       {
         "model": "minecraft:block/gravel",
-        "x": 180,
-        "z": 180
+        "z": 180,
       },
       {
         "model": "minecraft:block/gravel",

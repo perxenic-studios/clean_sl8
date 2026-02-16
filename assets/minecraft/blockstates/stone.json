@@ -6,7 +6,6 @@
       },
       {
         "model": "minecraft:block/stone",
-        "x": 180,
         "z": 180
       }
     ]
